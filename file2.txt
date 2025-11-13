@@ -1,0 +1,2 @@
+This is the second file which is made by the local git commands 
+
